@@ -1,0 +1,58 @@
+.rosa{
+	background: #e0645c; /* Old browsers */
+	background: -moz-linear-gradient(top,  #e0645c 0%, #d35c58 32%, #ba4e4e 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e0645c), color-stop(32%,#d35c58), color-stop(100%,#ba4e4e)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #e0645c 0%,#d35c58 32%,#ba4e4e 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #e0645c 0%,#d35c58 32%,#ba4e4e 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #e0645c 0%,#d35c58 32%,#ba4e4e 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #e0645c 0%,#d35c58 32%,#ba4e4e 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0645c', endColorstr='#ba4e4e',GradientType=0 ); /* IE6-9 */
+}
+
+.blu{
+	background: #049cbe;  /* Old browsers */
+	background: -moz-linear-gradient(top,  #049cbe 0%, #0594ad 32%, #047d9b 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#049cbe), color-stop(32%,#0594ad), color-stop(100%,#047d9b)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #049cbe 0%,#0594ad 32%,#047d9b 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #049cbe 0%,#0594ad 32%,#047d9b 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #049cbe 0%,#0594ad 32%,#047d9b 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #049cbe 0%,#0594ad 32%,#047d9b 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#049cbe', endColorstr='#047d9b',GradientType=0 ); /* IE6-9 */
+
+}
+
+.verde{
+	background: #96cc58; /* Old browsers */
+	background: -moz-linear-gradient(top,  #96cc58 0%, #82ba51 32%, #7aa84a 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#96cc58), color-stop(32%,#82ba51), color-stop(100%,#7aa84a)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #96cc58 0%,#82ba51 32%,#7aa84a 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #96cc58 0%,#82ba51 32%,#7aa84a 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #96cc58 0%,#82ba51 32%,#7aa84a 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #96cc58 0%,#82ba51 32%,#7aa84a 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#96cc58', endColorstr='#7aa84a',GradientType=0 ); /* IE6-9 */
+
+}
+
+.ocra {
+	background: #f9c55f; /* Old browsers */
+	background: -moz-linear-gradient(top,  #f9c55f 0%, #d8b554 32%, #c9a04e 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f9c55f), color-stop(32%,#d8b554), color-stop(100%,#c9a04e)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #f9c55f 0%,#d8b554 32%,#c9a04e 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #f9c55f 0%,#d8b554 32%,#c9a04e 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #f9c55f 0%,#d8b554 32%,#c9a04e 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #f9c55f 0%,#d8b554 32%,#c9a04e 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9c55f', endColorstr='#c9a04e',GradientType=0 ); /* IE6-9 */
+
+}
+
+.panna{
+	background: #ecf0f1; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ecf0f1 0%, #dbdfe0 32%, #bfbbbb 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ecf0f1), color-stop(32%,#dbdfe0), color-stop(100%,#bfbbbb)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ecf0f1 0%,#dbdfe0 32%,#bfbbbb 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ecf0f1 0%,#dbdfe0 32%,#bfbbbb 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ecf0f1 0%,#dbdfe0 32%,#bfbbbb 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #ecf0f1 0%,#dbdfe0 32%,#bfbbbb 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ecf0f1', endColorstr='#bfbbbb',GradientType=0 ); /* IE6-9 */
+
+}

@@ -1,0 +1,167 @@
+/* NAVBAR-RELATED OVERRIDES */
+
+body {
+  padding-top: 50px;
+  min-width: 330px;
+}
+
+/* By default, the navbar is 50px high (30px without padding) */
+
+.plus-one-container {
+  padding-top: 10px;
+  padding-left: 15px;
+}
+.floatleft {
+  float: right;
+}
+
+/* GENERIC STRIP */
+
+.strip {
+  height: 600px;
+}
+
+.content {
+  margin-top: 30px;
+}
+
+/* HEADER STRIP */
+
+.logo h1 {
+  padding-top: 239px;
+}
+@media (max-width: 400px) {
+  .logo h1 {
+    padding-top: 100px;
+  }
+}
+@media (max-width: 400px) {
+  .rosa {
+    height: 400px;
+  }
+}
+
+/* OFFERTA */
+
+.offerta h2 {
+  min-height: 120px;
+  margin-top: 10px;
+  padding: 0px;
+}
+.offerta h1 {
+  margin-top: 5px;
+}
+.panna .container {
+  margin-top: 60px;
+}
+.oldprice, .newprice {
+  display: inline;
+}
+@media (max-width: 547px) {
+  .panna .container {
+    margin-top: 35px;
+  }
+}
+@media (max-width: 377px) {
+  .panna .container {
+    margin-top: 50px;
+  }
+}
+
+/* DOVE SIAMO */
+
+.blu .container {
+  margin-top: 82px;
+}
+@media (max-width: 991px) {
+  .blu .container {
+    margin-top: 0px;
+  }
+}
+.listacolonna {
+  padding: 0;
+}
+.sinistra {
+  padding-left: 50px;
+  float: left;
+}
+@media (max-width: 991px) {
+  .sinistra {
+    padding-left: 130px;
+  }
+}
+@media (max-width: 680px) {
+  .sinistra {
+    padding-left: 70px;
+  }
+}
+@media (max-width: 590px) {
+  .sinistra {
+    padding-left: 70px;
+  }
+}
+@media (max-width: 510px) {
+  .sinistra {
+    padding-left: 30px;
+  }
+}
+@media (max-width: 470px) {
+  .sinistra {
+    padding-left: 0px;
+  }
+}
+.destra {
+  padding-right: 30px;
+  float: right;
+}
+@media (max-width: 991px) {
+  .destra {
+    padding-right: 130px;
+  }
+}
+@media (max-width: 680px) {
+  .destra {
+    padding-right: 70px;
+  }
+}
+@media (max-width: 590px) {
+  .destra {
+    padding-right: 70px;
+  }
+}
+@media (max-width: 510px) {
+  .destra {
+    padding-right: 30px;
+  }
+}
+@media (max-width: 470px) {
+  .destra {
+    padding-right: 0;
+  }
+}
+.max80 {
+  max-width: 400px;
+}
+.emptyline {
+  height: 35px;
+}
+@media (max-width: 991px) {
+  .emptyline {
+    display: none;
+  }
+}
+
+/* STAFF */
+
+.verde .container {
+  margin-top: 117px;
+}
+@media (max-width: 437px) {
+  .verde .container {
+    margin-top: 94px;
+  }
+}
+#myslider {
+  height: 600px;
+  background: black;
+}

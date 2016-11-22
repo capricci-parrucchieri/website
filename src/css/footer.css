@@ -1,0 +1,22 @@
+/* FOOTER STYLE */
+.footer-col h1{
+    font-size: 1.3em;
+    color: #bdc3c7;
+}
+
+.footer-col h2{
+    font-size: 1em;
+}
+
+/* FOOTER STRUCTURE */
+footer {
+    display: block;
+    height: 50px;
+    background: #111;
+    color: #333;
+}
+
+.footer-col{
+	float: right;
+	margin-right: 30px;
+}

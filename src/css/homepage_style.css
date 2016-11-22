@@ -1,0 +1,145 @@
+/* WHOLE PAGE STUFF */
+
+a {
+  color: black;
+  text-decoration: underline;
+}
+.navbar a {
+  /* restore navbar default */
+  text-decoration: none;
+}
+
+/* GENERIC STRIP */
+
+.strip {
+  border-bottom: 1px solid #e7e9eb;
+}
+.titolo h1 {
+  font-family: 'Mouse Memoirs', sans-serif;
+  font-size: 5em;
+  font-weight: lighter;
+}
+@media (max-width: 377px) {
+  .titolo h1 {
+    font-size: 4em;
+  }
+}
+.titolo h2 {
+  font-family: 'BenchNine', sans-serif;
+  font-size: 1.8em;
+  letter-spacing: 1px;
+  font-weight: lighter;
+}
+@media (max-width: 377px) {
+  .titolo h2 {
+    font-size: 1.4em;
+  }
+}
+.annuncio {
+  font-family: 'BenchNine', sans-serif;
+  letter-spacing: 1px;
+}
+.annuncio h1 {
+  font-size: 2.5em;
+  font-weight: lighter;
+}
+@media (min-width: 992px) {
+  .annuncio h1 {
+    font-size: 2.8em;
+  }
+}
+.annuncio h2 {
+  font-size: 1.5em;
+  font-weight: lighter;
+  text-align: justify;
+}
+@media (min-width: 992px) {
+  .annuncio h2 {
+    font-size: 1.8em;
+  }
+}
+.annuncio h3 {
+  font-size: 3.2em;
+  font-weight: lighter;
+  color: black;
+}
+
+/* HEADER STRIP */
+
+.logo h1 {
+  font-family: 'Jenna', sans-serif;
+  font-size: 8em;
+  font-weight: lighter;
+}
+.logo h3 {
+  font-family: 'BenchNine', sans-serif;
+  font-size: 2.4em;
+  word-spacing: -2px;
+  letter-spacing: 2px;
+  font-weight: lighter;
+}
+@media (max-width: 512px) {
+  .logo h1 {
+    font-size: 7em;
+  }
+}
+@media (max-width: 455px) {
+  .logo h1 {
+    font-size: 6em;
+  }
+}
+
+/* OFFERTA */
+
+.offerta {
+  border: thin black dashed;
+  font-family: 'BenchNine', sans-serif;
+}
+.offerta h1 {
+  font-size: 2.5em;
+}
+.offerta h2 {
+  font-size: 1.5em;
+  font-weight: lighter;
+}
+@media (min-width: 547px) {
+  .offerta h2 {
+    font-size: 1.8em;
+  }
+}
+.offerta h3 {
+  font-size: 1.5em;
+}
+.oldprice {
+  text-decoration: line-through;
+  font-size: 1.45em;
+  color: rgba(0, 0, 0, 0.55);
+}
+.newprice {
+  font-size: 2.7em;
+  color: #e0645c;
+}
+
+/* DOVE SIAMO */
+
+.listacolonna {
+  list-style: none;
+}
+@media (max-width: 397px) {
+  .blu .titolo h1 {
+    font-size: 4em;
+  }
+  .blu .titolo h2 {
+    font-size: 1.4em;
+  }
+}
+@media (max-width: 991px) {
+  .onerow h2 {
+    text-align: center;
+  }
+}
+@media (min-width: 991px) {
+  .blu .annuncio h3 {
+    font-size: 4.5em;
+  }
+}

@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Jenna';
+    src: url('../fonts/jennasue-webfont.eot');
+    src: url('../fonts/jennasue-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/jennasue-webfont.woff') format('woff'),
+    url('../fonts/jennasue-webfont.ttf') format('truetype'),
+    url('../fonts/jennasue-webfont.svg#jennasue-webfont') format('svg');
+   font-weight: normal;
+   font-style: normal;
+}
